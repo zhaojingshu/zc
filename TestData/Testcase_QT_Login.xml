@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+    <login name="登录测试数据">
+        <username>18601152182</username>
+        <password>infra1234</password>
+        <checkpoint>//div[@class='siteHCountBox']/a</checkpoint>
+        <value>staw</value>
+    </login>
+</TestData>
